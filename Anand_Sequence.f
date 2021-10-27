@@ -132,6 +132,7 @@ C
       ! READ(5,*) IFLAG
       IFLAG = 0
 
+!why not hard code this too? 
 
       IF(RE.EQ.3180)THEN
         UM = 13.159973
